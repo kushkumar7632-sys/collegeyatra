@@ -111,88 +111,18 @@ function mechanical(){
     window.location.href = "all_sem/mechanical_sem.html"
 }
 
-// function cse_1(){
-//     window.location.href = "../subject/cse_sub/first.html"
-// }
-
-// function cse_2(){
-//     window.location.href = "all_sem/cse_sem.html"
-// }
-
-// function cse_3(){
-//     window.location.href = "all_sem/cse_sem.html"
-// }
-
-// function cse_4(){
-//     window.location.href = "all_sem/cse_sem.html"
-// }
-
-// function cse_5(){
-//     window.location.href = "all_sem/cse_sem.html"
-// }
-
-// function cse_6(){
-//     window.location.href = "all_sem/cse_sem.html"
-// }
-
-// function cse_7(){
-//     window.location.href = "all_sem/cse_sem.html"
-// }
-
-// function cse_8(){
-//     window.location.href = "all_sem/cse_sem.html"
-// }
-
-
-// document.getElementById("counsellingForm").addEventListener("submit", function(e) {
-//   e.preventDefault();
-
-//   let name = document.getElementById("name").value.trim();
-//   let mother = document.getElementById("mother").value.trim();
-//   let father = document.getElementById("father").value.trim();
-//   let dob = document.getElementById("dob").value;
-//   let address = document.getElementById("address").value.trim();
-//   let pincode = document.getElementById("pincode").value.trim();
-
-//   let pinRegex = /^[0-9]{6}$/;
-
-//   if (name === "") {
-//     alert("Student name required");
-//     return;
-//   }
-
-//   if (mother === "") {
-//     alert("Mother's name required");
-//     return;
-//   }
-
-//   if (father === "") {
-//     alert("Father's name required");
-//     return;
-//   }
-
-//   if (dob === "") {
-//     alert("Date of birth required");
-//     return;
-//   }
-
-//   if (address === "") {
-//     alert("Address required");
-//     return;
-//   }
-
-//   if (!pinRegex.test(pincode)) {
-//     alert("Enter valid 6 digit pin code");
-//     return;
-//   }
-
-//   alert("Form submitted successfully ✅");
-// });
-
-
 //-----counsilling form------//
 function cform() {
      window.location.href = "councling_form.html"
-  }
+}
+
+function college() {
+    window.location.href = "college.html"
+}
+
+function enter_otp() {
+    window.location.href = "otp.html"
+}
+
 
 
