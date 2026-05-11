@@ -5,39 +5,39 @@ function endsem() {
   }
 
 function math(){
-    window.location.href = "question/math1.pdf"
+    window.location.href = "question/1st_sem/math1.pdf"
 }
 
 function bee(){
-    window.location.href = "question/bee1.pdf"
+    window.location.href = "question/1st_sem/bee1.pdf"
 }
 
 function itw(){
-    window.location.href = "question/itw1.pdf"
+    window.location.href = "question/1st_sem/itw1.pdf"
 }
 
 function pps(){
-    window.location.href = "question/pps1.pdf"
+    window.location.href = "question/1st_sem/pps1.pdf"
 }
 
 function physics(){
-    window.location.href = "question/phy1.pdf"
+    window.location.href = "question/1st_sem/phy1.pdf"
 }
 
 function chemistry(){
-    window.location.href = "question/chemistry_endsem.pdf"
+    window.location.href = "question/1st_sem/chemistry_endsem.pdf"
 }
 
 function mechanics(){
-    window.location.href = "question/mechanics_endsem.pdf"
+    window.location.href = "question/1st_sem/mechanics_endsem.pdf"
 }
 
 function egd(){
-    window.location.href = "question/egd_endsem.pdf"
+    window.location.href = "question/1st_sem/egd_endsem.pdf"
 }
 
 function english(){
-    window.location.href = "question/english_endsem.pdf"
+    window.location.href = "question/1st_sem/english_endsem.pdf"
 }
 
 
@@ -47,19 +47,19 @@ function midsem() {
   }
 
 function math_mid(){
-    window.location.href = "question/midsem_math.pdf"
+    window.location.href = "question/1st_sem/midsem_math.pdf"
 }
 
 function bee_mid(){
-    window.location.href = "question/mid_bee_1.pdf"
+    window.location.href = "question/1st_sem/mid_bee_1.pdf"
 }
 
 function itw_mid(){
-    window.location.href = "question/mid_itw_1.pdf"
+    window.location.href = "question/1st_sem/mid_itw_1.pdf"
 }
 
 function pps_mid(){
-    window.location.href = "question/mid_pps_1.pdf"
+    window.location.href = "question/1st_sem/mid_pps_1.pdf"
 }
 
 function physics_mid(){
@@ -67,7 +67,7 @@ function physics_mid(){
 }
 
 function mechanics_mid(){
-    window.location.href = "question/midsem_mechanics1.pdf"
+    window.location.href = "question/1st_sem/midsem_mechanics1.pdf"
 }
 
 function english_mid(){
@@ -75,11 +75,11 @@ function english_mid(){
 }
 
 function egd_mid(){
-    window.location.href = "question/midsem_egd1.pdf"
+    window.location.href = "question/1st_sem/midsem_egd1.pdf"
 }
 
 function chemistry_mid(){
-    window.location.href = "question/midsem_chemistry.pdf"
+    window.location.href = "question/1st_sem/midsem_chemistry.pdf"
 }
 
 //-------syllabus-------

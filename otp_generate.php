@@ -15,6 +15,8 @@ $sql = "INSERT INTO otp_verification (mobile, otp, name, email, password) VALUES
 
 $conn -> query($sql);
 
+include "fast2sms.php";
+
 header("Location: otp.html");
 
 ?>

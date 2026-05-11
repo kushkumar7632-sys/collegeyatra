@@ -12,7 +12,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 
     // email search
-    $sql = "SELECT id, name, password FROM sign_up WHERE email = ?";
+    $sql = "SELECT id, name, password FROM otp_verification WHERE email = ?";
     $stmt = mysqli_prepare($conn, $sql);
     mysqli_stmt_bind_param($stmt, "s", $email);
     mysqli_stmt_execute($stmt);
